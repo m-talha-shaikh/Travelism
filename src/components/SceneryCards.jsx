@@ -1,9 +1,9 @@
 import Card from './Card'
 
 const data = [
-{   id: 1,  url: "src/assets/bicycle.jpg",       title: "Escape the heat at these top 7 beaches near Lisbon"   },
-{   id: 2,  url: "src/assets/hat.jpg",   title: "15 of the best things to do in Amsterdam"   },
-{   id: 3,  url: "src/assets/lake.jpg",      title: "Having long COVID means I`ve had to change how and where I travel"   }
+{   id: 1,  url: "/bicycle.jpg",       title: "Escape the heat at these top 7 beaches near Lisbon"   },
+{   id: 2,  url: "/hat.jpg",   title: "15 of the best things to do in Amsterdam"   },
+{   id: 3,  url: "/lake.jpg",      title: "Having long COVID means I`ve had to change how and where I travel"   }
 ]
 
 
