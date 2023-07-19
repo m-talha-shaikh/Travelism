@@ -2,10 +2,22 @@ import { useState } from 'react'
 import DestCards from './DestCards'
 
 const data = [
-{   id: 1,  url: "src/assets/dublin.jpg",                   title: "Dublin"   },
-{   id: 2,  url: "src/assets/dunedin.jpeg",              title: "Dunedin"   },
-{   id: 3,  url: "src/assets/edinburgh.jpeg",             title: "Edinburgh"   }
-]
+  {
+    id: 1,
+    url: "/dublin.jpg",
+    title: "Dublin"
+  },
+  {
+    id: 2,
+    url: "/dunedin.jpeg",
+    title: "Dunedin"
+  },
+  {
+    id: 3,
+    url: "/edinburgh.jpeg",
+    title: "Edinburgh"
+  }
+];
 
 
 export default function(){
